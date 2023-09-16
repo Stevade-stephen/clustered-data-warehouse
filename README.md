@@ -32,6 +32,10 @@ Run Via Docker
   - docker compose build
   - docker compose up 
 ```
+Swagger url
+```bash
+  http://localhost:8081/swagger-ui/index.html
+```
 
 
 ## API Reference
